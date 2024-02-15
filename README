@@ -1,0 +1,27 @@
+# Django REST API Project (QuizRoom)
+
+This is a REST API project built with Django and Django Rest Framework. It provides endpoints for managing users, rooms, questions, and answers.
+
+## Installation
+
+1. Clone this repository:
+    ```bash
+    git clone https://github.com/isaiaspereira307/quizroom.git
+    ```
+
+2. Navigate to the project directory:
+    ```bash
+    cd quizroom/
+    ```
+
+3. Install the required dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+
+## Usage
+
+Run the server:
+```bash
+python manage.py runserver
+```

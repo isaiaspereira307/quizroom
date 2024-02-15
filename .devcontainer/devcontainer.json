@@ -1,0 +1,13 @@
+{
+	"name": "quizroom",
+	"dockerComposeFile": "docker-compose.yml",
+	"service": "quizroom",
+	"workspaceFolder": "/workspace",
+	"customizations": {
+		"vscode": {
+			"settings": {
+				"terminal.integrated.shell.linux": "/bin/bash"
+			}
+		}
+	}
+}
